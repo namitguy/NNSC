@@ -1,12 +1,30 @@
-#Namibia National Cybersecurity 8th Competition
+# Namibia National Cybersecurity 8th Competition
+
+## Introduction
 
 This is a list of tools I've found useful in the past when testing systems.
+
+## Discovery
 
 **Nmap**
 
 Nmap is used to discover hosts and services on a computer network by sending packets and analyzing the responses. Nmap provides a number of features for probing computer networks, including host discovery and service and operating system detection
 
 https://nmap.org/download
+
+**Tenable Nessus Essentials**
+
+This free version of a vulnerability assessment solution includes remote and local (authenticated) security checks. Limited by default to 16 hosts.
+
+https://www.tenable.com/products/nessus/nessus-essentials
+
+## Exploiting
+
+**MetaSploit Framework**
+
+The Metasploit Project is a computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development. The world's most used penetration testing framework.
+
+https://windows.metasploit.com/metasploitframework-latest.msi
 
 **Kali Linux Penetration Testing Platform**
 
@@ -20,17 +38,7 @@ PsExec is a light-weight telnet-replacement that lets you execute processes on o
 
 https://learn.microsoft.com/en-us/sysinternals/downloads/psexec
 
-**Tenable Nessus Essentials**
-
-This free version of a vulnerability assessment solution includes remote and local (authenticated) security checks. Limited by default to 16 hosts.
-
-https://www.tenable.com/products/nessus/nessus-essentials
-
-**MetaSploit Framework**
-
-The Metasploit Project is a computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development. The world's most used penetration testing framework.
-
-https://windows.metasploit.com/metasploitframework-latest.msi
+##Tools
 
 **VMware Player**
 
