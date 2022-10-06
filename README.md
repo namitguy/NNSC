@@ -52,3 +52,9 @@ An Open Source alternative to VMware Player. VirtualBox is a powerful x86 and AM
 
 https://www.virtualbox.org/wiki/Downloads
 
+**MetaSploitable**
+
+Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities. It is intended to be used as a target for testing exploits with metasploit
+
+https://app.vagrantup.com/rapid7/boxes/metasploitable3-win2k8
+
