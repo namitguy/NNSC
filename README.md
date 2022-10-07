@@ -30,7 +30,19 @@ https://www.purple-knight.com/resources/
 
 The Metasploit Project is a computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development. The world's most used penetration testing framework.
 
+Installation via Windows:
 https://windows.metasploit.com/metasploitframework-latest.msi
+
+Installation via Linux:
+https://trendoceans.com/metasploit-framework-on-linux/
+
+$ sudo apt install curl  #Installing curl for Debian, Ubuntu, Linux Mint, Pop!_os
+
+$ sudo dnf install curl  #Installing curl for Arch, Manjaro, EndeavorOS
+
+$ sudo pacman -Sy curl   #Installing curl for RHEL, Fedora, Alma Linux
+
+$ curl https://raw.githubusercontent.com/rapid7/metasploit-omnibus/master/config/templates/metasploit-framework-wrappers/msfupdate.erb > msfinstall && chmod 755 msfinstall && ./msfinstall
 
 **Kali Linux Penetration Testing Platform**
 
