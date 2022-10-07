@@ -8,7 +8,7 @@ This is a list of tools I've found useful in the past when testing systems.
 
 **Nmap**
 
-Nmap is used to discover hosts and services on a computer network by sending packets and analyzing the responses. Nmap provides a number of features for probing computer networks, including host discovery and service and operating system detection
+Nmap is used to discover hosts and services on a computer network by sending packets and analyzing the responses. Nmap provides a number of features for probing computer networks, including host discovery and service and operating system detection.
 
 https://nmap.org/download
 
