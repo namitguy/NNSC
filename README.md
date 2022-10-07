@@ -18,6 +18,12 @@ This free version of a vulnerability assessment solution includes remote and loc
 
 https://www.tenable.com/products/nessus/nessus-essentials
 
+**Purple Knight**
+
+Purple Knight is a standalone utility that queries the Active Directory and Azure AD environment and performs a set of tests against many aspects of Active Directory’s security posture, as an attacker would see it
+
+https://www.purple-knight.com/resources/
+
 ## Exploiting
 
 **MetaSploit Framework**
