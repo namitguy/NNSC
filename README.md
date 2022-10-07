@@ -37,7 +37,9 @@ Installation via Linux:
 https://trendoceans.com/metasploit-framework-on-linux/
 
 $ sudo apt install curl  #Installing curl for Debian, Ubuntu, Linux Mint, Pop!_os
+
 $ sudo dnf install curl  #Installing curl for Arch, Manjaro, EndeavorOS
+
 $ sudo pacman -Sy curl   #Installing curl for RHEL, Fedora, Alma Linux
 
 $ curl https://raw.githubusercontent.com/rapid7/metasploit-omnibus/master/config/templates/metasploit-framework-wrappers/msfupdate.erb > msfinstall && chmod 755 msfinstall && ./msfinstall
