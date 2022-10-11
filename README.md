@@ -60,7 +60,7 @@ https://learn.microsoft.com/en-us/sysinternals/downloads/psexec
 
 An unconventional Windows reverse shell, currently undetected by Microsoft Defender and various other AV solutions, solely based on http(s) traffic. 
 
-https://github.com/WillSecOps/hoaxshell
+https://github.com/t3l3machus/hoaxshell
 
 ## Tools
 
