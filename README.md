@@ -56,6 +56,12 @@ PsExec is a light-weight telnet-replacement that lets you execute processes on o
 
 https://learn.microsoft.com/en-us/sysinternals/downloads/psexec
 
+**Hoaxshell-Reverse Shell to Bypass Windows Defender**
+
+An unconventional Windows reverse shell, currently undetected by Microsoft Defender and various other AV solutions, solely based on http(s) traffic. 
+
+https://github.com/WillSecOps/hoaxshell
+
 ## Tools
 
 **VMware Player**
